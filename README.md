@@ -25,3 +25,13 @@ GDP -> this is an integer too. Its not clerifide but i think this shows the GPD 
 * Find the best graph or visualization to see how GPD and Life Exp. relate to each other. 
 * Based on these findigs we can create a Hypotesis and we can test it. 
 * Summaraizing all the findings. 
+
+Has life expectancy increased over time in the six nations?
+Has GDP increased over time in the six nations?
+Is there a correlation between GDP and life expectancy of a country?
+What is the average life expectancy in these nations?
+What is the distribution of that life expectancy?
+
+
+
+i'll do a tabluea presentation too abaout this dataset.
